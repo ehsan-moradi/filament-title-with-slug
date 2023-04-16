@@ -9,7 +9,7 @@
     :state-path="$getStatePath()"
     class="-mt-3 filament-seo-slug-input-wrapper"
 >
-    <div
+    <div dir="ltr"
         x-data="{
             context: '{{ $getContext() }}', // edit or create
             state: $wire.entangle('{{ $getStatePath() }}'), // current slug value
