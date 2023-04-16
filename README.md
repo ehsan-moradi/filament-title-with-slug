@@ -41,14 +41,7 @@ You can watch a short demo video of the packages below.
 
 ## Support us
 
-You can support my work with a [donation](https://www.paypal.com/paypalme/epicbundle).
-
-[Follow me on Twitter](https://twitter.com/camyaCom) for DEV updates.
-
-Support the package: Please give it a &#11088; Star on GitHub and on the official
-Filament [plugin page](https://filamentphp.com/plugins/title-with-slug-permalink), if it's helpful for you.
-
-Visit the plugin's [Composer Packagist page](https://packagist.org/packages/camya/filament-title-with-slug) (The PHP Package Repository) for the current install count and more.
+Visit the plugin's [Composer Packagist page](https://packagist.org/packages/ehsanmoradi/filament-title-with-slug) (The PHP Package Repository) for the current install count and more.
 
 ## Table of contents
 
@@ -104,16 +97,16 @@ You'll find the published translations here: `trans/vendor/filament-title-with-s
 This package is translated
 to:
 
-- [English (en)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/en/package.php)
-- [French (fr)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/fr/package.php)
-- [Brazilian Portuguese (pt_BR)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/pt_BR/package.php)
-- [German (de)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/de/package.php)
-- [Dutch (nl)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/nl/package.php)
-- [Indonesian (id)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/id/package.php)
-- [Arabic (ar)](https://github.com/camya/filament-title-with-slug/blob/main/resources/lang/ar/package.php)
+- [English (en)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/en/package.php)
+- [French (fr)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/fr/package.php)
+- [Brazilian Portuguese (pt_BR)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/pt_BR/package.php)
+- [German (de)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/de/package.php)
+- [Dutch (nl)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/nl/package.php)
+- [Indonesian (id)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/id/package.php)
+- [Arabic (ar)](https://github.com/ehsan-moradi/filament-title-with-slug/blob/main/resources/lang/ar/package.php)
 
 You translated it too? Share your translation on
-our [GitHub discussions](https://github.com/camya/filament-title-with-slug/discussions) page.
+our [GitHub discussions](https://github.com/ehsan-moradi/filament-title-with-slug/discussions) page.
 
 ## Usage & examples
 
