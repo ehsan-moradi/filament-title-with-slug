@@ -1,5 +1,5 @@
 {
-    "name": "camya/filament-title-with-slug",
+    "name": "ehsanmoradi/filament-title-with-slug",
     "description": "TitleWithSlugInput - Easy Permalink Slugs for the FilamentPHP Form Builder (PHP / Laravel / Livewire)",
     "keywords": [
         "framework",
@@ -11,14 +11,13 @@
         "alpinejs",
         "tailwindcss"
     ],
-    "homepage": "https://github.com/camya/filament-title-with-slug",
+    "homepage": "https://github.com/ehsan-moradi/filament-title-with-slug",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andreas Scheibel",
-            "email": "contact@camya.com",
+            "name": "ehsan moradi",
             "role": "Developer",
-            "homepage": "https://www.camya.com"
+            "homepage": "https://github.com/ehsan-moradi"
         }
     ],
     "require": {
@@ -46,12 +45,12 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Camya\\Filament\\": "src"
+            "EhsanMoradi\\Filament\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Camya\\Filament\\Tests\\": "tests"
+            "EhsanMoradi\\Filament\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -73,7 +72,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Camya\\Filament\\FilamentTitleWithSlugServiceProvider"
+                "EhsanMoradi\\Filament\\FilamentTitleWithSlugServiceProvider"
             ]
         }
     },
